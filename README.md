@@ -33,7 +33,7 @@ Please cite our new paper:
 
 **Plain Text:**
 
-Chengle Zhou, Qian Shi1, Da He, Bing Tu, Haoyang Li, and Antonio Plaza. "[Spectral‐spatial sequence characteristics‐based convolutional transformer for hyperspectral change detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12226)." CAAI Transactions on Intelligence Technology. 2023 Dec, 8(4):1237-1257.
+Chengle Zhou, Qian Shi, Da He, Bing Tu, Haoyang Li, and Antonio Plaza. "[Spectral‐spatial sequence characteristics‐based convolutional transformer for hyperspectral change detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12226)." CAAI Transactions on Intelligence Technology. 2023 Dec, 8(4):1237-1257.
 
 **BibTex:**
 
