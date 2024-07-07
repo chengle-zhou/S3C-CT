@@ -2,7 +2,7 @@
 ---
 ## Spectral-Spatial Sequence Characteristics-Based Convolutional Transformer for Hyperspectral Change Detection
 
-***Chengle Zhou, Qian Shi1, Da He, Bing Tu, Haoyang Li, and Antonio Plaza***
+***Chengle Zhou, Qian Shi, Da He, Bing Tu, Haoyang Li, and Antonio Plaza***
 
 *CAAI Transactions on Intelligence Technology, vol. 8, no. 4, pp. 1237-1257, Dec. 2023*
 
